@@ -21,7 +21,7 @@ function App() {
             <h1>Create User</h1>
             <form onSubmit={handleSubmit}>
                 <div>
-                    <h1>hello world</h1>
+                   
                     <label>Name: </label>
                     <input
                         type="text"
